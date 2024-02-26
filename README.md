@@ -1,14 +1,18 @@
 # Welcome to NFT-Flow: Unleashing Creative Possibilities on the Flow Blockchain
 
 # Introduction
-Embark on a journey into the fascinating world of non-fungible tokens (NFTs) with CryptoPoops. This innovative smart contract introduces a robust implementation of NFT collections using the expressive Cadence programming language on the dynamic Flow blockchain. Immerse yourself in a realm where digital assets take on unique characteristics, bridging the virtual and real worlds.
+
+Embark on an exhilarating journey into the captivating world of non-fungible tokens (NFTs) with CryptoPoops. This groundbreaking smart contract introduces a robust implementation of NFT collections, utilizing the expressive Cadence programming language on the dynamic Flow blockchain. Immerse yourself in a realm where digital assets assume unique characteristics, seamlessly bridging the virtual and real worlds.
 
 Components: Crafting Uniqueness
-NFT Resource: A Symphony of Distinct Traits
-The NFT resource acts as the cornerstone, defining tokens that transcend mere digital representations. Each NFT is a masterpiece, with properties ranging from whimsical names to favorite foods and lucky numbers. The result? A collection of tokens, each an unparalleled work of art.
 
-Collection Resource: Orchestrating Ownership
-Step into the role of a curator with the Collection resource - a managerial genius for overseeing the ownership of NFTs within a collection. Seamlessly deposit, withdraw, and retrieve NFTs, orchestrating the symphony of ownership within your digital realm.
+ # NFT Resource: A Symphony of Distinct Traits
+
+At the heart of CryptoPoops lies the NFT resource, defining tokens that transcend mere digital representations. Each NFT emerges as a masterpiece, boasting properties ranging from whimsical names to favorite foods and lucky numbers. The result? A collection of tokens, each an unparalleled work of art.
+
+# Collection Resource: Orchestrating Ownership
+
+Step into the role of a curator with the Collection resource—a managerial genius for overseeing the ownership of NFTs within a collection. Seamlessly deposit, withdraw, and retrieve NFTs, orchestrating the symphony of ownership within your digital realm.
 
 MintingFacility Resource: Crafting the Future
 The MintingFacility resource serves as your creative studio, empowering you to craft new NFTs with unparalleled ease. Dive into the world of minting operations, where innovation knows no bounds. Unleash your imagination, and let the MintingFacility breathe life into your digital creations.
